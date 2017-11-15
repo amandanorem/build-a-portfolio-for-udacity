@@ -23,33 +23,34 @@ h4 {
   color: #f59d76;
 }
 
+h1 {
+  color: #f59d76;
+  font-weight: bold;
+}
+
  .main-photo {
    width: 100%;
    max-height: 600px;
+   padding-bottom: 20px;
  }
 
 .mock-site {
-  max-width: 33%;
+  width: 33%;
   float: left;
-  padding-right: 5px;
-  padding-bottom: 10px;
+  padding-right: 7px;
+
 
 }
 
 .hair-site {
-  max-width: 33%;
+  width: 33%;
   float: right;
-  padding-left: 10px;
-  padding-bottom: 10px;
+
 }
 
 .trainer-site {
-  max-width: 33%;
+  width: 33%;
   float: center;
-  padding-left: 10px;
-  padding-bottom: 10px;
-  }
+  padding-right: 5px;
 
-.clear{
-  clear: both;
-}
+  }
